@@ -17,4 +17,4 @@ My Schematics
 - 1 NE555D IC
 - 1 CD4017 decade counter IC
 
-Made by [@Raghav.atla](U0BSW81U8JH) on slack
+Made by [@Raghav.atla](slack://user?team=T0266FRNF&id=U0BSW81U8JH) on slack
