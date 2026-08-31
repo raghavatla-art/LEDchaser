@@ -16,8 +16,7 @@ My Schematics
 - 1 100K ohm potentiometer
 - 1 NE555D IC
 - 1 CD4017 decade counter IC
-
-[Download the Gerbers ZIP File](./production/gerbers.zip.zip)
+[Download the Gerbers ZIP File](./LEDchaser/production/gerbers.zip)
 
 Made by [@Raghav.atla](https://slack.com) on slack!
 
