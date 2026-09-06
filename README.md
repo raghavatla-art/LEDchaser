@@ -11,7 +11,14 @@ My Schematics
 # BOM
 
 - 1 TLC555XP
-- 
+- 2 10uF capacitors
+- 3 220ohm resistors
+- 3 4.7kohm resistors
+- 3 LEDs
+- 2 10kohm resistors
+- 3 2N3904 transistor
+- 1 battery cell
+- 1 push button switch
 
 Made by [@Raghav.atla](https://slack.com) on slack!
 
