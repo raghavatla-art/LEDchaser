@@ -10,7 +10,7 @@ My Schematics
 
 # BOM
 
-- 1 NE555D IC
+- 1 TLC555XP
 - 
 
 Made by [@Raghav.atla](https://slack.com) on slack!
