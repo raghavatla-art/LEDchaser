@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/rajat/OneDrive/Documents/Desktop")
+			(outputdirectory "C:/Users/rajat/OneDrive/Documents/LED chaser/_restore_backup_2026-09-05T11-00-06-861/.history")
 		)
 	)
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
