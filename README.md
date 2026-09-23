@@ -1,5 +1,5 @@
 # LEDchaser
-This is my first PCB design and it is a LED chaser that uses THT transistors and a 555 timer IC. This is also my first project for Hack Club after hearing about it from my friends. I had to learn basic electronic components and it was quite fun.
+This is my first PCB design and it is a ring oscillator LED chaser that uses THT transistors. This is also my first project for Hack Club after hearing about it from my friends. I had to learn basic electronic components and it was quite fun.
 ## Visuals
 3D Render
 <img width="818" height="420" alt="Screenshot 2026-09-05 142847" src="https://github.com/user-attachments/assets/79f3aac8-6b94-4cc2-99f4-0199c6e536ad" />
@@ -10,14 +10,12 @@ My Schematics
 
 # BOM
 
-- 1 TLC555XP
-- 2 10uF capacitors
-- 3 220ohm resistors
-- 3 4.7kohm resistors
+- 4 10uF capacitors
+- 4 470ohm resistors
+- 4 47kohm resistors
 - 3 LEDs
-- 2 10kohm resistors
-- 3 2N3904 transistor
-- 1 battery cell
+- 4 2N3904 transistor
+- 2 battery cell
 - 1 push button switch
 
 Made by [@Raghav.atla](https://slack.com) on slack!
