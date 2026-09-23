@@ -17,6 +17,6 @@ My Schematics
 - 2 battery cell
 - 1 push button switch
 
-Falstad link:https://www.falstad.com/s.php?s=uAG2Ck
+Falstad link:https://www.falstad.com/s.php?s=uAG2Ck \
 Made by [@Raghav.atla](https://slack.com) on slack!
 
