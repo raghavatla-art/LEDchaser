@@ -13,8 +13,8 @@ My Schematics
 - 4 470ohm resistors
 - 4 47kohm resistors
 - 3 LEDs
-- 4 2N3904 transistor
-- 2 battery cell
+- 4 2N3904 transistors
+- 2 battery cells
 - 1 push button switch
 
 Falstad link:https://www.falstad.com/s.php?s=uAG2Ck \
