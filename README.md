@@ -2,7 +2,7 @@
 This is my first PCB design and it is a ring oscillator LED chaser that uses THT transistors. This is also my first project for Hack Club after hearing about it from my friends. I had to learn basic electronic components and it was quite fun.
 ## Visuals
 3D Render
-<img width="678" height="476" alt="Screenshot 2026-09-22 213440" src="https://github.com/user-attachments/assets/db2c6a82-75df-48c8-aa45-78fccc21fc96" />
+<img width="655" height="500" alt="image" src="https://github.com/user-attachments/assets/37ead3fb-d865-48e9-acd1-837d4354ebc1" />
 PCB Layout
 <img width="777" height="575" alt="Screenshot 2026-09-22 213523" src="https://github.com/user-attachments/assets/add3fc16-db1c-4b96-9186-a966f13554fc" />
 My Schematics
