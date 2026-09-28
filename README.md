@@ -3,6 +3,7 @@ This is my first PCB design and it is a ring oscillator LED chaser that uses THT
 ## Visuals
 3D Render
 <img width="655" height="500" alt="image" src="https://github.com/user-attachments/assets/37ead3fb-d865-48e9-acd1-837d4354ebc1" />
+<img width="672" height="498" alt="Screenshot 2026-09-27 195942" src="https://github.com/user-attachments/assets/86aaa0cc-f49d-4cfd-bac7-a1ea631654af" />
 PCB Layout
 <img width="777" height="575" alt="Screenshot 2026-09-22 213523" src="https://github.com/user-attachments/assets/add3fc16-db1c-4b96-9186-a966f13554fc" />
 My Schematics
